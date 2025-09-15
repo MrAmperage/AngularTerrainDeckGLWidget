@@ -7,10 +7,10 @@
     "@deck.gl/core": "^9.1.14",
     "@deck.gl/geo-layers": "^9.1.14",
     "@deck.gl/mesh-layers": "^9.1.14",
-    "@mr.amperage/angular-deck.gl": "0.0.1"
+    "@mr.amperage/angular-deck.gl": "file:../AngularDeckGL/dist/angular-deck.gl"
   },
   "dependencies": {
-    "tslib": "^2.3.0"
+    "tslib": "^2.8.1"
   },
   "sideEffects": false,
   "devDependencies": {
