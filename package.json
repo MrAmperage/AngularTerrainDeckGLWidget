@@ -4,9 +4,9 @@
   "peerDependencies": {
     "@angular/common": "^20.3.0",
     "@angular/core": "^20.3.0",
-    "@deck.gl/core": "^9.1.14",
-    "@deck.gl/geo-layers": "^9.1.14",
-    "@deck.gl/mesh-layers": "^9.1.14",
+    "@deck.gl/core": "^9.2.2",
+    "@deck.gl/mesh-layers": "^9.2.2",
+    "@deck.gl/geo-layers": "^9.2.2",
     "@mr.amperage/angular-deck.gl": "file:../AngularDeckGL/dist/angular-deck.gl"
   },
   "dependencies": {
