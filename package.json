@@ -17,6 +17,7 @@
     "ng-packagr": "^20.3.0"
   },
   "scripts": {
-    "build": "ng-packagr -p ng-package.json"
+    "build": "ng-packagr -p ng-package.json",
+    "reinstall": "rm -rf .angular && rm -rf node_modules && npm cache clean --force && npm install --install-links=true --force"
   }
 }
